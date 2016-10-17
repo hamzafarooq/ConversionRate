@@ -4,5 +4,5 @@ We have data about users who hit our site: whether they converted or not as well
 activity/time spent on site).
 
 The Challenge is to:
-Predict conversion rate
+Predict conversion rate.
 Come up with recommendations for the product team and the marketing team to improve conversion rate 
